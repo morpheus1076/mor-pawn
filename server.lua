@@ -1,5 +1,10 @@
 ESX = exports["es_extended"]:getSharedObject()
 
+--[[CreateThread(function()
+    local testi = print('test cron')
+    lib.cron.new('2 * * * *', testi, true)
+end)]]
+
 RegisterNetEvent('morpawn:add')
 AddEventHandler('morpawn:add', function(data)
     local buys = data
