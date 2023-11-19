@@ -7,7 +7,7 @@ games        { 'rdr3', 'gta5' }
 name 'mor-pawn'
 author 'morpheus1076'
 description 'Pawnshop'
-version '0.0.2'
+version '0.0.3'
 
 client_script {
 			"client.lua",
