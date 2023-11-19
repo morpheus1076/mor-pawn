@@ -6,5 +6,5 @@ geld wird vom angegeben societykonto abgebucht oder bei item-verkauf draufgebuch
 items vom Spieler werden ausgelesen und die items die verkauft werden können angezeigt.
 alles frei enstellbar in der Config.lua.
 
-Credits gehen raus an Robby / Wasabi für die inspieration durch das Sell-Script.
+Credits gehen raus an Robby / Wasabi für die Inspieration durch das Sell-Script.
 https://github.com/wasabirobby
